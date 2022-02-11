@@ -5,7 +5,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm currently working as a **Research Assistant** applying deep learning in the field of biosignals. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily `.py`, `torch`, `sklearn`, `azure`, `tf`
+- 💻 I use daily `.py`, `torch`, `docker`, `azure`, `sklearn`, `tf`
 
 ---
 
