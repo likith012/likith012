@@ -12,12 +12,15 @@
 ### 🧰 Toolbox:
 
 <p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="70"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="70">
+      
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="70">
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="70">
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="70"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="70">
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="70">
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="70">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="70">
-
+      
 </p>
 
 ---
